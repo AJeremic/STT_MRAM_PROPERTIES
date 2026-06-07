@@ -12,7 +12,7 @@ import math
 from scipy.optimize import curve_fit
 from scipy import special
 
-file_path = 'C:/Users/jerem/Documents/Spin-Ion Tech/Data_Example/RawData/RH/RH Test_+2023_11_27_212944471_P3MRAM_WAF00_+000_+000_CH1_R07C17_AllCycle.txt'
+file_path = '######'
 
 
 skiprows_data = 0
