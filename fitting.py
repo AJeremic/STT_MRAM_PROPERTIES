@@ -13,7 +13,7 @@ from scipy.optimize import curve_fit
 from scipy import special
 from Pulse import V_AP_P_list, V_P_AP_list, pulses
 
-file_path = 'C:/Users/jerem/Documents/Spin-Ion Tech/Data_Example/RawData/RVdc/IV-DC_+2023_11_27_213019332_P3MRAM_WAF00_+000_+000_CH1_R07C17_AllCycle.txt'
+file_path = '##############'
 
 skiprows_data = 0
 with open(file_path, 'r') as file:
